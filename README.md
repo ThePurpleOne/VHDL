@@ -18,6 +18,6 @@ In those little projects, i'm using **GHDL** to create simulations of circuits b
 Download the last version at https://github.com/ghdl/ghdl/releases and add the bin folder to the path.
 
 # Gtkwave
-The compiler generates vcd files that can be read by any sign wave analyser, i decided to use [Gtkwave](https://github.com/gtkwave/gtkwave). It can be used to see and analyse the evolution of signals through time.
+The compiler generates vcd files that can be read by any sign wave analyser, i decided to use *[Gtkwave](https://github.com/gtkwave/gtkwave)*. It can be used to see and analyse the evolution of signals through time.
 
 ![interface of gtkWave](/IMAGES/gtkwaveInterface.png)
