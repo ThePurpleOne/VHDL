@@ -1,0 +1,62 @@
+$date
+  Sun Mar 28 17:25:15 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module half_adder_tb $end
+$var reg 1 ! inputa_wire $end
+$var reg 1 " inputb_wire $end
+$var reg 1 # output_wire $end
+$var reg 1 $ carryo_wire $end
+$scope module half_adder_wires $end
+$var reg 1 % inputa $end
+$var reg 1 & inputb $end
+$var reg 1 ' output $end
+$var reg 1 ( carryo $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+X!
+X"
+X#
+X$
+X%
+X&
+X'
+X(
+#1000000
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+#2000000
+1"
+1#
+1&
+1'
+#3000000
+1!
+0"
+1%
+0&
+#4000000
+1"
+0#
+1$
+1&
+0'
+1(
+#5000000
